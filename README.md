@@ -1,9 +1,9 @@
 ### Hi there, Aman here!!👋
 
-<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/> -->
-
 ## I'm a Leaner and Contributor:
 
+- 🏆 Frontend specialist
+- 🎯 Micro-frontend enthusiast
 - 🔭 Working with Javascript and Typescript
 - 🌱 Love to contribute to Open Source projects
 - 💬 Maintainer of es-string-utils
